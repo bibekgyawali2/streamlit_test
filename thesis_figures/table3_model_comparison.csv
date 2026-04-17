@@ -1,0 +1,7 @@
+Metric,Random Forest,ANN,Baseline (Linear)
+R² Score,0.8379,0.6867,0.8534
+Adjusted R²,0.5946,1.3481,-
+MAE (NPR),"643,220","947,548","576,165"
+RMSE (NPR),"804,351","1,118,088",-
+MAPE (%),4.94%,7.87%,-
+Explained Variance,0.8539,0.6977,-
